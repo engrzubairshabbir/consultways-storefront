@@ -43,10 +43,15 @@ export default function ProductCard({ product }: { product: Product }) {
         justifyContent: 'center',
         padding: '1rem'
       }}>
-        {/* Using standard img tag for external URLs to avoid next/image domain config issues initially */}
+        {/* Using standard img tag with an onError fallback to handle Amazon hotlink protection (403 errors) */}
         <img 
           src={product.imageUrl} 
           alt={product.title}
+          onError={(e) => {
+            // Replace broken image with a clean placeholder showing the first few words of the title
+            const fallbackText = encodeURIComponent(product.title.split(' ').slice(0, 3).join(' '));
+            e.currentTarget.src = `https://placehold.co/400x400/1e293b/fff?text=${fallbackText}`;
+          }}
           style={{
             maxWidth: '100%',
             maxHeight: '100%',

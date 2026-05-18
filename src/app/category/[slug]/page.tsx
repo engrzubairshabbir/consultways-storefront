@@ -13,8 +13,9 @@ export function generateStaticParams() {
 }
 
 // Generate dynamic SEO Metadata
-export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
-  const category = productsData.find((c) => c.slug === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const resolvedParams = await params;
+  const category = productsData.find((c) => c.slug === resolvedParams.slug);
   
   if (!category) {
     return { title: 'Category Not Found' };
@@ -31,8 +32,9 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   };
 }
 
-export default function CategoryPage({ params }: { params: { slug: string } }) {
-  const category = productsData.find((c) => c.slug === params.slug);
+export default async function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
+  const resolvedParams = await params;
+  const category = productsData.find((c) => c.slug === resolvedParams.slug);
 
   if (!category) {
     notFound();
