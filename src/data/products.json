@@ -62,6 +62,78 @@
         "imageUrl": "https://m.media-amazon.com/images/I/61X-lJ9W7AL._AC_SL1500_.jpg",
         "price": "$79.99",
         "rating": 4.7
+      },
+      {
+        "asin": "B0F5WCSL4H",
+        "title": "Night Vision Goggles, 112 MP 4K Night Vision Binoculars",
+        "description": "12X Zoom & 5000mAh Battery, 64GB Card Included, Infrared Binoculars Night Vision",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$89.99",
+        "rating": 4.5
+      },
+      {
+        "asin": "B08HLV1ZBK",
+        "title": "Huhoo Cool Gadgets Tools Multi Tech Pen for Men",
+        "description": "Personalized Gifts for Dad or Him, Funny Gift for Christmas",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$5.99",
+        "rating": 4.6
+      },
+      {
+        "asin": "B0FVFTY4CG",
+        "title": "Wallet Tracker PRO - Apple Find My Bluetooth Key Finder",
+        "description": "Wallet Locator Card Rechargeable Wireless Charging Ultra Thin Smart Tracker",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$39.97",
+        "rating": 4.7
+      },
+      {
+        "asin": "B0GFW5F83D",
+        "title": "iGENJUN Wireless CarPlay Adapter 2026 for iPhone",
+        "description": "Converts Factory Wired to Wireless CarPlay, Premium 5GHz WiFi CarPlay Adapter",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$39.99",
+        "rating": 4.8
+      },
+      {
+        "asin": "B0FQV9R5M4",
+        "title": "IVJ Compressed Air Duster, 180000RPM Super Power Cordless",
+        "description": "Electric Air Duster with LED Light Rechargeable 4 Gear Adjustable Mini Air Duster",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$23.99",
+        "rating": 4.7
+      },
+      {
+        "asin": "B0995JWCHF",
+        "title": "Bluetooth Beanie Hat Headphones",
+        "description": "Unique Tech Gifts Stocking Stuffer",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$22.71",
+        "rating": 4.6
+      },
+      {
+        "asin": "B0CL3W9SRN",
+        "title": "2026 Travel Essentials for Apple Watch Charger",
+        "description": "Multi Charging Cable, 3 in 2 Charging Docks for iWatch Series",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$9.99",
+        "rating": 4.7
+      },
+      {
+        "asin": "B091LWX7Z8",
+        "title": "RUIXINDA Magnetic Levitating Bluetooth Speaker",
+        "description": "Levitating UFO Speakers with LED Lights, 360 Degree Rotation",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$97.99",
+        "rating": 4.8
+      },
+      {
+        "asin": "B0DJS9TP24",
+        "title": "2026 Apple MFi Certified Wallet Tracker Smart Card",
+        "description": "5 Years+ Staying Power, IP68 Waterproof, Bluetooth Key Finder",
+        "imageUrl": "https://placehold.co/400x400/1e293b/fff?text=Tech+Gadget",
+        "price": "$16.99",
+        "rating": 4.6
       }
     ]
   },

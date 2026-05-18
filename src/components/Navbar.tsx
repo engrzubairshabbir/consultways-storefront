@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Navbar() {
   return (
@@ -23,21 +24,13 @@ export default function Navbar() {
         alignItems: 'center'
       }}>
         <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-          {/* We will use a placeholder or the actual logo if imported properly */}
-          <div style={{
-            width: '40px',
-            height: '40px',
-            background: 'linear-gradient(135deg, var(--accent-cyan), #3b82f6)',
-            borderRadius: '8px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            fontWeight: 'bold',
-            fontSize: '1.2rem',
-            color: 'white'
-          }}>
-            CW
-          </div>
+          <Image 
+            src="/logo.png" 
+            alt="ConsultWays Logo" 
+            width={45} 
+            height={45}
+            style={{ borderRadius: '8px' }}
+          />
           <span style={{
             fontFamily: 'Outfit, sans-serif',
             fontSize: '1.5rem',
