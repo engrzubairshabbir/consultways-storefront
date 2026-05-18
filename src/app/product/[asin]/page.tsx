@@ -97,10 +97,6 @@ export default async function ProductPage({ params }: { params: Promise<{ asin: 
           <img 
             src={product.imageUrl} 
             alt={product.title}
-            onError={(e) => {
-              const fallbackText = encodeURIComponent(product.title.split(' ').slice(0, 3).join(' '));
-              e.currentTarget.src = `https://placehold.co/600x600/1e293b/fff?text=${fallbackText}`;
-            }}
             style={{ width: '100%', maxHeight: '500px', objectFit: 'contain' }}
           />
         </div>
