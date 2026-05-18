@@ -7,19 +7,19 @@
     "description": "The most viral and innovative tech finds trending on TikTok right now.",
     "products": [
       {
-        "asin": "B0C741YV9T",
-        "title": "Magnetic Wireless Portable Charger, 10000mAh",
+        "asin": "B09VPHVT2Z",
+        "title": "Anker Portable Charger, 10,000mAh Power Bank",
         "description": "Snap it on your phone and forget the cables. A massive lifesaver for travel.",
-        "imageUrl": "https://m.media-amazon.com/images/I/71wK8n0-D3L._AC_SL1500_.jpg",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Y-1X5M-eL._AC_SL1500_.jpg",
         "price": "$39.99",
         "rating": 4.8
       },
       {
-        "asin": "B0B2W5B23W",
-        "title": "Smart LED Desk Lamp with Wireless Charging",
-        "description": "The aesthetic desk lamp everyone is raving about. Perfect for home offices.",
-        "imageUrl": "https://m.media-amazon.com/images/I/61k1jY-JqBL._AC_SL1500_.jpg",
-        "price": "$29.99",
+        "asin": "B0CHWRXH8B",
+        "title": "Apple AirPods Pro (2nd Generation) Wireless Earbuds",
+        "description": "The aesthetic wireless earbuds everyone is raving about. Perfect for home offices.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
+        "price": "$249.00",
         "rating": 4.7
       }
     ]
@@ -32,19 +32,19 @@
     "description": "Transform your home office into a productivity powerhouse with these top-rated essentials.",
     "products": [
       {
-        "asin": "B089K4Q4Z4",
-        "title": "Ergonomic Office Chair with Lumbar Support",
-        "description": "Say goodbye to back pain. The mesh back keeps you cool all day long.",
-        "imageUrl": "https://m.media-amazon.com/images/I/71uDPXJ3GZL._AC_SL1500_.jpg",
-        "price": "$129.99",
+        "asin": "B09B8V1LZ3",
+        "title": "Echo Dot (5th Gen, 2022 release)",
+        "description": "The ultimate smart speaker for your home office. Control everything with your voice.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71C3lbbeLsL._AC_SL1500_.jpg",
+        "price": "$49.99",
         "rating": 4.6
       },
       {
-        "asin": "B07ZPR1V1C",
-        "title": "Under Desk Cable Management Tray",
-        "description": "Hide all those ugly wires instantly. Makes your setup look 10x cleaner.",
-        "imageUrl": "https://m.media-amazon.com/images/I/71uKk3t2k2L._AC_SL1500_.jpg",
-        "price": "$24.99",
+        "asin": "B09B2YWQMW",
+        "title": "Kindle Paperwhite (8 GB)",
+        "description": "Read all your business and productivity books without the eye strain.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61r5eXjGheL._AC_SL1500_.jpg",
+        "price": "$139.99",
         "rating": 4.9
       }
     ]
