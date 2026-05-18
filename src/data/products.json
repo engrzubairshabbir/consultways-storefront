@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "slug": "viral-tiktok-gadgets",
+    "category": "Viral Tech & Gadgets",
+    "title": "Viral TikTok Gadgets",
+    "description": "The most viral and innovative tech finds trending on TikTok right now.",
+    "products": [
+      {
+        "asin": "B0C741YV9T",
+        "title": "Magnetic Wireless Portable Charger, 10000mAh",
+        "description": "Snap it on your phone and forget the cables. A massive lifesaver for travel.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wK8n0-D3L._AC_SL1500_.jpg",
+        "price": "$39.99",
+        "rating": 4.8
+      },
+      {
+        "asin": "B0B2W5B23W",
+        "title": "Smart LED Desk Lamp with Wireless Charging",
+        "description": "The aesthetic desk lamp everyone is raving about. Perfect for home offices.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61k1jY-JqBL._AC_SL1500_.jpg",
+        "price": "$29.99",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "wfh-essentials",
+    "category": "Work From Home Essentials",
+    "title": "Ultimate WFH Setup Upgrades",
+    "description": "Transform your home office into a productivity powerhouse with these top-rated essentials.",
+    "products": [
+      {
+        "asin": "B089K4Q4Z4",
+        "title": "Ergonomic Office Chair with Lumbar Support",
+        "description": "Say goodbye to back pain. The mesh back keeps you cool all day long.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uDPXJ3GZL._AC_SL1500_.jpg",
+        "price": "$129.99",
+        "rating": 4.6
+      },
+      {
+        "asin": "B07ZPR1V1C",
+        "title": "Under Desk Cable Management Tray",
+        "description": "Hide all those ugly wires instantly. Makes your setup look 10x cleaner.",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uKk3t2k2L._AC_SL1500_.jpg",
+        "price": "$24.99",
+        "rating": 4.9
+      }
+    ]
+  }
+]
